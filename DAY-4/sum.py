@@ -6,4 +6,3 @@ def calculate_sum(numbers):
 
 
 actual_sum = calculate_sum(numbers)
-print(actual_sum)
