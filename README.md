@@ -39,7 +39,10 @@ If the temperature is less than 50 degrees Fahrenheit, suggest wearing a coat, h
 
 ### Day 3: Loops and Iteration in Python 
 
+Understand how to apply Loops and iteration in python programs. *** While loops:With boolean values, do-while loop too *** For Loops: Using Indexing,using range(), Using items, looping over sequential data (sets, dictionaries, lists, tuples) *** For-Else statements *** Break and Continue Statements
 
+Exercise
+Fibonacci: Write a program that prompts the user to enter a positive integer n, and then prints the first n Fibonacci numbers. The Fibonacci sequence starts with 0 and 1, and each subsequent number is the sum of the two preceding numbers.
 
 
 ### Day 4: Functions In Python 
