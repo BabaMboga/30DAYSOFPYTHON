@@ -59,6 +59,15 @@ Exercise:
 
 ### Day 5: Strings and String Manipulations 
 
+Understand how to create strings in python, how to format and how to manipulate. https://www.programiz.com/python-programming/methods/string https://www.pythoncheatsheet.org/cheatsheet/manipulating-strings https://www.pythoncheatsheet.org/cheatsheet/string-formatting
+
+Exercise:
+1. Write a Python program to count the number of characters    (character frequency) in a string. Sample String : google.com' Expected Result : {'g': 2, 'o': 3, 'l': 1, 'e': 1, '.': 1, 'c': 1, 'm': 1}
+
+2. Write a Python program to get a string made of the first 2 and last 2 characters of a given string. If the string length is less than 2, return the empty string instead. Sample String : 'w3resource' Expected Result : 'w3ce' Sample String : 'w3' Expected Result : 'w3w3' Sample String : ' w' Expected Result : Empty String
+
+3. Write a Python program to add 'ing' at the end of a given string (length should be at least 3). If the given string already ends with 'ing', add 'ly' instead. If the string length of the given string is less than 3, leave it unchanged. Sample String : 'abc' Expected Result : 'abcing' Sample String : 'string' Expected Result : 'stringly'
+
 ### Day 5: LISTS in Python
 
 
