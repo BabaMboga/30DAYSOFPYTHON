@@ -68,23 +68,26 @@ Exercise:
 
 3. Write a Python program to add 'ing' at the end of a given string (length should be at least 3). If the given string already ends with 'ing', add 'ly' instead. If the string length of the given string is less than 3, leave it unchanged. Sample String : 'abc' Expected Result : 'abcing' Sample String : 'string' Expected Result : 'stringly'
 
-### Day 5: LISTS in Python
+### Day 6: LISTS in Python
+
+Understand LISTS and how to manipulate lists in python. Understand CRUD Operations in Lists using Python. https://www.pythoncheatsheet.org/cheatsheet/lists-and-tuples https://www.programiz.com/python-programming/list
+
+Exercise
+1. Write a Python program to remove duplicates from a list.
+
+2. Write a Python program to print a specified list after removing the 0th, 4th and 5th elements. Sample List : ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow'] Expected Output : ['Green', 'White', 'Black']
+
+3. Write a Python program to check if each number is prime in a given list of numbers. Return True if all numbers are prime otherwise False. Sample Data: ([0, 3, 4, 7, 9]) -> False ([3, 5, 7, 13]) -> True ([1, 5, 3]) -> False
 
 
-### Day 6: Dictionaries in Python 
+### Day 7: Dictionaries in Python 
 
 
 
-### Day 7: Sets 
+### Day 8: Sets 
 
 
-### Day 8: Tuples 
-
-
-
-### Day 9: Sets 
-
-
+### Day 9: Tuples 
 
 
 ### Day 10: Regular Expressions
