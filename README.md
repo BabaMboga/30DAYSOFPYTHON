@@ -124,9 +124,9 @@ Exercise
 Understand the basics of Regex and how to apply it in Python Study via: https://www.pythoncheatsheet.org/cheatsheet/regular-expressions https://www.edureka.co/blog/python-regex/ https://programmingwithmosh.com/interviews/interview-questions-in-python-regular-expressions/
 
 Exercise
-Trolls are attacking your comment section! A common way to deal with this situation is to remove all of the vowels from the trolls’ comments, neutralizing the threat. Your task is to write a function that takes a string argument and returns a new string with all vowels removed. For example, the string “Hello World!” would become “Hll Wrld”. Note: For this problem, ‘y’ is NOT considered a vowel.
+1. Trolls are attacking your comment section! A common way to deal with this situation is to remove all of the vowels from the trolls’ comments, neutralizing the threat. Your task is to write a function that takes a string argument and returns a new string with all vowels removed. For example, the string “Hello World!” would become “Hll Wrld”. Note: For this problem, ‘y’ is NOT considered a vowel.
 
-Write a Python program to match if two words from a list of words start with the letter 'P'.
+2. Write a Python program to match if two words from a list of words start with the letter 'P'.
 
 Write a Python program to remove the parenthesis area in a string. Sample data : ["example (.com)", "w3resource", "github (.com)", "stackoverflow (.com)"] Expected Output: example w3resource github stackoverflow
 
